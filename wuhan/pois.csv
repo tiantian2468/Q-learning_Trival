@@ -1,0 +1,22 @@
+id,name,rating,review_count,positive_rate,dwell_time,lon,lat,is_start
+0,Wuhan Start,0,0,0,0,114.3055,30.5928,1
+1,Yellow Crane Tower,4.3,1172,0.860,2,114.3020,30.5446,0
+2,East Lake Scenic Area,4.5,6,0.900,3,114.3950,30.5600,0
+3,Hubei Provincial Museum,4.5,55,0.900,2.5,114.3670,30.5637,0
+4,Wuhan University,4.5,232,0.900,2,114.3616,30.5363,0
+5,Wuhan Yangtze River Bridge,4.4,421,0.880,1,114.2910,30.5542,0
+6,Hubu Alley,4.0,363,0.800,1,114.2995,30.5430,0
+7,Guiyuan Temple,4.3,89,0.860,1.5,114.2538,30.5487,0
+8,Guqin Tai,4.1,58,0.820,1,114.2603,30.5539,0
+9,Jianghan Road Pedestrian Street,4.2,202,0.840,1.5,114.2856,30.5847,0
+10,Hankou River Beach,4.5,31,0.900,1.5,114.3000,30.5960,0
+11,Wuhan Museum,4.3,73,0.860,1.5,114.2550,30.6150,0
+12,Tanhualin,3.8,35,0.760,1.5,114.3150,30.5500,0
+13,Wuhan Botanical Garden,4.4,43,0.880,2,114.4160,30.5450,0
+14,Moshan Scenic Area,4.5,20,0.900,2.5,114.4210,30.5510,0
+15,Happy Valley Wuhan,3.7,34,0.740,3,114.3920,30.6100,0
+16,Wuhan Haichang Polar Ocean Park,2.4,9,0.480,2.5,114.2570,30.6810,0
+17,Chu River Han Street,4.6,9,0.920,1.5,114.3410,30.5570,0
+18,Qingchuan Pavilion,4.2,50,0.840,1,114.2867,30.5536,0
+19,Mulan Heaven Lake,4.3,40,0.860,3,114.3770,31.0830,0
+20,Mulan Grassland,4.0,30,0.800,3,114.4870,31.0330,0
